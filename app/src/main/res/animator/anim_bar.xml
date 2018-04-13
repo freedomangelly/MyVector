@@ -2,12 +2,11 @@
 <objectAnimator
     xmlns:androd="http://schemas.android.com/apk/res/android"
     androd:duration="1000"
-    androd:interpolator="@android:interpolator/overshoot"
-    androd:propertyName="translateX"
+    androd:propertyName="trimPathStart"
     androd:repeatCount="infinite"
     androd:repeatMode="reverse"
     androd:valueFrom="0"
-    androd:valueTo="-10"
+    androd:valueTo="1"
     androd:valueType="floatType">
 
 </objectAnimator>
