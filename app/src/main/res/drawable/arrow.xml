@@ -10,7 +10,7 @@
             android:pathData="M9.01,14L2,14v2h7.01v3L13,15l-3.99,-4v3z"/>
 
     </group>
-    <group android:name="rigth">
+    <group android:name="right">
         <path
 
             android:fillColor="#FF000000"

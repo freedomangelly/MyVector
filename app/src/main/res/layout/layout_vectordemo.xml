@@ -26,8 +26,8 @@
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:onClick="doClick"
-            app:srcCompat="@drawable/arrow" />
+            android:onClick="anim"
+            app:srcCompat="@drawable/arrow_anim" />
 
     </LinearLayout>
 </ScrollView>
